@@ -58,7 +58,6 @@ int main(int argc, char** argv) {
             cout << "The median student wait time: " << r.medianTime() << endl;
             cout << "The longest student wait time: " << r.longestTime() << endl;
             cout << "The number of studdnts waiting over 10 minutes: " << r.overTime() << endl;
-            cout << "The mean window idle time: " << r.meanIdleTime() << endl;
             cout << "The longest window idle time: " << r.longestIdleTime() << endl;
             cout << "Number of windows idle for over 5 minutes: " << r.idleOverTime() << endl;
         }
