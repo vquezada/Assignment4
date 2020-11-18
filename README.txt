@@ -2,7 +2,7 @@ Venezia Quezada
 CPSC 350-02
 Student ID: 002341304
 Programming Assignment 4:C++ Review
-Errors: No known Errors
+Errors: No known Errors im pretty sure it compiles 
 Sources Files:
 a.out
 main.cpp
