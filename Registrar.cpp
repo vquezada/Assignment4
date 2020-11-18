@@ -266,7 +266,7 @@ int Registrar::longestIdleTime() {
         curr = curr->next;
     }
 
-    sort(idleArray, idleArray + idArray);
+    
 
     return(idleArray[idArray - 1
       ]);
