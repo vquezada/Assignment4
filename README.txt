@@ -16,7 +16,7 @@ Student.h
 test.txt
 Complies
 g++ *.cpp
-./a.out [test.txt] text file name in command line
+./a.out test.txt text file name in command line
 try catch
 http://www.cplusplus.com/doc/tutorial/exceptions/
 aoti
